@@ -6,7 +6,7 @@
       "time":"20:30 Hôm nay ",
       "logo_a":"http://www.bongdatructuyen.us/uploads/team/Bayern_Munchen_display_image_1317140555_1329289939.png",
       "logo_b":"http://www.bongdatructuyen.us/uploads/team/Eintracht_Frankfurt_1343186509.png",
-      "link":"https://www.simplifiedcoding.net/demos/marvel/captainamerica.jpg"
+      "link":"http://static-m.24h.com.vn/upload/2-2018/videoclip/2018-04-24/1524578881-nghean_01.mp4"
    },
    {
       "name":"Crystal Palace - Leicester City",
@@ -15,7 +15,7 @@
       "time":"21:00 Hôm nay",
       "logo_a":"http://www.bongdatructuyen.us/uploads/team/Crystal_Palace_1375694253.png",
       "logo_b":"http://www.bongdatructuyen.us/uploads/team/Leicester_City_1329370768.png",
-      "link":"https://www.simplifiedcoding.net/demos/marvel/captainamerica.jpg"
+      "link":"http://devstreaming.apple.com/videos/wwdc/2016/102w0bsn0ge83qfv7za/102/hls_vod_mvp.m3u8"
    },
    {
       "name":"Captai",
